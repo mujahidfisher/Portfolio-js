@@ -1,0 +1,12 @@
+/* logo */
+img[alt='logo'] {
+    width: 4rem;
+    border-radius: 50%;
+    border: #f96d00 4px solid;
+
+}
+
+/* body */
+body {
+    text-align: center;
+}
